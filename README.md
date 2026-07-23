@@ -22,6 +22,8 @@ Browser (React)  --axios-->  Django REST API  --ORM-->  MySQL
    ```bash
    mysql -u root -p < database_setup.sql
    ```
+Demp:
+   https://www.linkedin.com/posts/ambadipudi-rupavani-1b35aa352_hi-im-a-computer-science-engineering-activity-7486084046196752385-SZP0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgCSpcBYFbs_t443iaz4YoCk6nJcPlALIo
    This creates the `college_chatbot_db` database.
 
 ## 2. Backend setup (Django)
